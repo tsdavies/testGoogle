@@ -1,0 +1,22 @@
+{
+  "name": "testgoogle",
+  "version": "1.0.0",
+  "description": "Demonstrate automation of Google searches",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsdavies/testGoogle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tsdavies/testGoogle/issues"
+  },
+  "homepage": "https://github.com/tsdavies/testGoogle#readme",
+  "devDependencies": {
+    "cypress": "^4.6.0"
+  }
+}
