@@ -1,4 +1,5 @@
-# testGoogle
+# Test Google
+
 Run automation on Google site.
 Perform searches using Google and Cypress.
 
@@ -8,6 +9,7 @@ Perform searches using Google and Cypress.
 npm i
 cypress open
 ```
+
 ## To run headless
 
 ```sh
