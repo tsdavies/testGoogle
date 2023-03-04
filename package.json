@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/tsdavies/testGoogle#readme",
   "devDependencies": {
-    "cypress": "^4.6.0"
+    "cypress": "^4.12.1"
   }
 }
